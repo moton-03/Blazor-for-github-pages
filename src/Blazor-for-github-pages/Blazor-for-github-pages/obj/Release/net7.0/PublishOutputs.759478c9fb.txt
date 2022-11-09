@@ -1,0 +1,1 @@
+C:\GitHub\Blazor-for-github-pages\src\Blazor-for-github-pages\Blazor-for-github-pages\obj\Release\net7.0\browser-wasm\PubTmp\Out\web.config

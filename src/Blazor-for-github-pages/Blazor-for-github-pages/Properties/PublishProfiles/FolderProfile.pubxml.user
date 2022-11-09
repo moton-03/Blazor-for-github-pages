@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\GitHub\Blazor-for-github-pages\src\Blazor-for-github-pages\Blazor-for-github-pages\bin\Release\net7.0\browser-wasm\publish\</_PublishTargetUrl>
+    <History>True|2022-11-06T12:07:21.3651558Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

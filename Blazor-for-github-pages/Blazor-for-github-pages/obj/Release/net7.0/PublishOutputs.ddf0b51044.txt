@@ -1,7 +1,0 @@
-C:\github\Blazor-for-github-pages\Blazor-for-github-pages\Blazor-for-github-pages\obj\Release\net7.0\PubTmp\Out\Blazor-for-github-pages.exe
-C:\github\Blazor-for-github-pages\Blazor-for-github-pages\Blazor-for-github-pages\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
-C:\github\Blazor-for-github-pages\Blazor-for-github-pages\Blazor-for-github-pages\obj\Release\net7.0\PubTmp\Out\appsettings.json
-C:\github\Blazor-for-github-pages\Blazor-for-github-pages\Blazor-for-github-pages\obj\Release\net7.0\PubTmp\Out\Blazor-for-github-pages.dll
-C:\github\Blazor-for-github-pages\Blazor-for-github-pages\Blazor-for-github-pages\obj\Release\net7.0\PubTmp\Out\Blazor-for-github-pages.deps.json
-C:\github\Blazor-for-github-pages\Blazor-for-github-pages\Blazor-for-github-pages\obj\Release\net7.0\PubTmp\Out\Blazor-for-github-pages.runtimeconfig.json
-C:\github\Blazor-for-github-pages\Blazor-for-github-pages\Blazor-for-github-pages\obj\Release\net7.0\PubTmp\Out\Blazor-for-github-pages.pdb
